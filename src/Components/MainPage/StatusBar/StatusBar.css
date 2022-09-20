@@ -1,0 +1,41 @@
+.statusbar-container {
+    display: flex;
+    width: 579px;
+    overflow-x: scroll;
+}
+
+.statusbar-status {
+    height: 195px;
+    width: 105px;
+    margin: 15px 5px;
+    border-radius: 15px;
+
+}
+
+.statusbar-status.image{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.statusbar-status.image > input{
+    display: none;
+}
+
+.upload_icon{
+    width: 40px;
+    height: 40px;
+    margin-top: 15%;
+    opacity: 0.8 ;
+    cursor: pointer;
+}
+
+.upload_icon:hover{
+    opacity: 0.9;
+}
+
+.status_image{
+    width:110px;
+    height: 200px;
+    border-radius: 5px;;
+}

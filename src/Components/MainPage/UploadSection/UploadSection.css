@@ -1,0 +1,124 @@
+.upload-container {
+    height: 125px;
+    width: 569px;
+    border-radius: 15px;
+}
+
+.upload-top {
+    display: flex;
+}
+
+.uploadimg {
+    margin-top: 15px;
+    margin-left: 15px;
+}
+
+.uploadbox {
+   height: 40px;
+   width: 460px;
+   border: 0px;
+   background-color: #EFF2F5;
+   border-radius: 30px;
+   font-size: 15px;
+   padding-left: 22px;
+   margin: 15px;
+}
+
+.uploadbottom {
+   border-top: 1px solid #E3E6EA;
+   display: flex;
+   margin-left: 45px;
+}
+
+.upload-tabs2 > input{
+    display: none;
+}
+
+.upload-tabs1 {
+    margin-top: 5px;
+    width: 150px ;
+    display: flex;
+}
+
+.upload-tabs2 {
+    margin-left: 2%;
+    margin-top: 6px;
+    width: 150px ;
+    display: flex;
+    cursor: pointer;
+}
+
+.upload-tabs3 {
+    margin-left: 2%; 
+    margin-top: 10px;
+    width: 150px ;
+    display: flex;
+}
+
+.upload-text {
+   margin: 7px;
+}
+
+.upload-text1 {
+    margin: 4px;
+}
+
+.upload-text2 {
+    margin: 4px;
+ }
+
+.uplimg1 {
+   width: 40px;
+   height: 35px;
+   margin-right: 3%;
+}
+
+.uplimg2 {
+    width: 25px;
+    height: 25px;
+    margin-right: 4%;
+}
+
+.uplimg3 {
+    width: 25px;
+    height: 25px; 
+    margin-right: 4%;
+}
+
+.upload_dialogbox{
+
+}
+
+.upload_textbox{
+    margin: 20px 40px;
+    height: 40px;
+    border: 0px;
+    border-radius: 20px;
+    padding-left: 5%;
+}
+
+.upload_bouton{
+    margin: 20px 40px;
+    background-color:#1B77F2;
+    color: white;
+    font-weight: 400;
+    border: 0px;
+    height:40px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.upload_bouton:hover{
+    background-color: #2c87ff;
+}
+
+.upload_preview{
+    padding: 0px 40px;
+}
+
+.upload_header{
+    font-size: 24px;
+    font-weight:600;
+    text-align: center;
+    margin-top:20px ;
+}

@@ -1,0 +1,110 @@
+.postcontainer {
+    height:100%;
+    width: 570px;
+    margin-top: 20px;
+    border-radius: 20px;
+}
+
+.post-header {
+   display: flex;
+   height: 50px;
+}
+
+.post-header-img {
+    height: 30px;
+    width: 40px;
+}
+
+.post-img {
+    margin: 15px;
+}
+
+.post-header-text {
+    font-weight: 500;
+    margin-top: 25px;
+    font-size: 15px;
+    margin-left: 5%;
+}
+
+.post-description {
+    margin-left: 30px;
+    margin-top: 10px;
+}
+
+.post-image{
+    margin: 10px 0px;
+}
+
+.post-likecountcontainer {
+    display: flex;
+    margin-bottom: 3%;
+    margin-top: 2%;
+}
+
+.post-like {
+    height: 30px;
+    margin-top: -4%;
+    margin-left: -2%;
+}
+
+.post-img{
+   height: 20px;
+}
+
+.post-likecount{
+   font-size: 15px;
+   margin-top: -1%;
+   margin-left: -2%;
+}
+
+.likeshare {
+   display: flex;
+   border-top: 1px solid #E3E6EA;
+   border-bottom: 1px solid #E3E6EA ;
+}
+
+.liketab{
+   display: flex;
+   margin-top: 2%;
+   margin-right: 5%;
+}
+
+.liketabfirst{
+
+}
+
+.liketabimg{
+
+}
+
+.liketext{
+    font-size: 18px;
+}
+
+.text{
+    margin-top: 10%;
+}
+
+.text1{
+   margin-left: 5%;
+   margin-top: -1%;
+}
+
+.text2{
+   margin-left: 15%;
+   margin-top: 3%;
+}
+
+.tab{
+    margin-left: 12%;
+}
+
+.tab1{
+    margin-left: 7%;
+    margin-top: 4%;
+}
+
+.tab2{
+    margin-left: 40%;
+    margin-top: -2%;
+}

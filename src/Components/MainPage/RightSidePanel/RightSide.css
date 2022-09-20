@@ -1,0 +1,16 @@
+.rightside_container {
+    display: flex;
+    justify-content: center;
+}
+
+.rightside_header {
+    margin-top: 5%;
+    margin-left: -20%;
+    font-size: 18px;
+    font-weight:600;
+}
+
+.rightside_content {
+    margin-left: -25%;
+      margin-top: 10%;
+} 
